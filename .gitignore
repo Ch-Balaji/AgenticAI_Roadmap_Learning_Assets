@@ -1,0 +1,14 @@
+# Secrets — never commit
+.env
+.env.local
+*.pem
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
