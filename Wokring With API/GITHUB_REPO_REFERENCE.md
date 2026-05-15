@@ -6,14 +6,16 @@
 - **Owner:** `Ch-Balaji`
 - **Repo name:** `AgenticAI_Roadmap_Learning_Assets`
 
-## What’s in this folder (intended to match the repo)
+## What’s in this folder (`Wokring With API/` — matches clone layout)
 
 | File | Description |
 |------|-------------|
 | `foundations_apis_and_requests.md` | Session notes: APIs, HTTP, JSON, `requests`, API keys |
 | `calling_openai_in_practice.ipynb` | Hands-on: OpenAI + Groq-style calls |
-| `.env.example` | Template — copy to `.env` locally |
-| `.gitignore` | Keeps secrets and junk out of git |
+| `.env.example` | Template — copy to `.env` locally (same folder) |
+| `README.md` | Quick start |
+
+At the repository root there is only a stub `README.md` and `.gitignore` (ignored patterns apply across the repo).
 
 ## Local setup
 
